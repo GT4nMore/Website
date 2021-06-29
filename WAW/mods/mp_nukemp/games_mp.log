@@ -1,0 +1,675 @@
+1617776813 ------------------------------------------------------------
+1617776813 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617776817 J;380864107;0;GT5nLess
+1617776819 JT;380864107;0;allies;GT5nLess;
+1617776839 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;frag_grenade_mp;149;MOD_GRENADE_SPLASH;none
+1617776852 D;380864107;0;allies;GT5nLess;380864107;0;allies;GT5nLess;satchel_charge_mp;68;MOD_GRENADE_SPLASH;none
+1617776869 Weapon;380864107;0;GT5nLess;svt40_mp
+1617776876 ShutdownGame:
+1617776876 ------------------------------------------------------------
+1617777091 ------------------------------------------------------------
+1617777091 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777096 J;380864107;0;GT5nLess
+1617777098 JT;380864107;0;axis;GT5nLess;
+1617777125 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;frag_grenade_mp;116;MOD_GRENADE_SPLASH;none
+1617777132 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;frag_grenade_mp;123;MOD_GRENADE_SPLASH;none
+1617777145 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;none;100000;MOD_SUICIDE;none
+1617777151 D;380864107;0;axis;GT5nLess;380864107;0;axis;GT5nLess;frag_grenade_mp;28;MOD_GRENADE_SPLASH;none
+1617777157 ShutdownGame:
+1617777157 ------------------------------------------------------------
+1617777728 ------------------------------------------------------------
+1617777728 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777729 ExitLevel: executed
+1617777730 ShutdownGame:
+1617777730 ------------------------------------------------------------
+1617777733 ------------------------------------------------------------
+1617777733 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_airfield\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777739 J;380864107;0;GT5nLess
+1617777743 ShutdownGame:
+1617777743 ------------------------------------------------------------
+1617777748 ------------------------------------------------------------
+1617777748 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777749 ExitLevel: executed
+1617777749 ShutdownGame:
+1617777749 ------------------------------------------------------------
+1617777752 ------------------------------------------------------------
+1617777752 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_asylum\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777759 J;380864107;0;GT5nLess
+1617777760 say;380864107;0;GT5nLess;devmap mp_nukemp
+1617777763 ShutdownGame:
+1617777763 ------------------------------------------------------------
+1617777766 ------------------------------------------------------------
+1617777766 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777767 ExitLevel: executed
+1617777768 ShutdownGame:
+1617777768 ------------------------------------------------------------
+1617777770 ------------------------------------------------------------
+1617777770 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_castle\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617777776 J;380864107;0;GT5nLess
+1617777778 ShutdownGame:
+1617777778 ------------------------------------------------------------
+1617779512 ------------------------------------------------------------
+1617779512 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617779518 J;380864107;0;GT5nLess
+1617779520 JT;380864107;0;axis;GT5nLess;
+1617779524 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;none;100000;MOD_SUICIDE;none
+1617779524 JT;380864107;0;allies;GT5nLess;
+1617779555 W;380864107;0;GT5nLess
+1617779559 ShutdownGame:
+1617779559 ------------------------------------------------------------
+1617779559 ------------------------------------------------------------
+1617779559 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617779559 J;380864107;0;GT5nLess
+1617779561 JT;380864107;0;allies;GT5nLess;
+1617779596 D;380864107;0;allies;GT5nLess;;-1;world;;none;7;MOD_FALLING;none
+1617779603 say;380864107;0;GT5nLess;com_maxfps 333
+1617779624 D;380864107;0;allies;GT5nLess;;-1;world;;none;28;MOD_FALLING;none
+1617779640 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617779665 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617779678 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617779740 D;380864107;0;allies;GT5nLess;;-1;world;;none;24;MOD_FALLING;none
+1617779758 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617779768 say;380864107;0;GT5nLess;noclip
+1617779879 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617779914 D;380864107;0;allies;GT5nLess;;-1;world;;none;29;MOD_FALLING;none
+1617779951 D;380864107;0;allies;GT5nLess;;-1;world;;none;19;MOD_FALLING;none
+1617779971 D;380864107;0;allies;GT5nLess;;-1;world;;none;13;MOD_FALLING;none
+1617779976 say;380864107;0;GT5nLess;god
+1617779991 D;380864107;0;allies;GT5nLess;;-1;world;;none;96;MOD_FALLING;none
+1617780015 D;380864107;0;allies;GT5nLess;;-1;world;;none;44;MOD_FALLING;none
+1617780087 D;380864107;0;allies;GT5nLess;;-1;world;;none;3;MOD_FALLING;none
+1617780094 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617780099 ShutdownGame:
+1617780099 ------------------------------------------------------------
+1617784028 ------------------------------------------------------------
+1617784028 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617784032 J;380864107;0;GT5nLess
+1617784035 JT;380864107;0;allies;GT5nLess;
+1617784089 D;380864107;0;allies;GT5nLess;;-1;world;;none;57;MOD_FALLING;none
+1617784107 D;380864107;0;allies;GT5nLess;;-1;world;;none;22;MOD_FALLING;none
+1617784138 D;380864107;0;allies;GT5nLess;;-1;world;;none;52;MOD_FALLING;none
+1617784160 D;380864107;0;allies;GT5nLess;;-1;world;;none;31;MOD_FALLING;none
+1617784211 ShutdownGame:
+1617784211 ------------------------------------------------------------
+1617787516 ------------------------------------------------------------
+1617787516 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617787520 J;380864107;0;GT5nLess
+1617787522 JT;380864107;0;allies;GT5nLess;
+1617787534 ShutdownGame:
+1617787534 ------------------------------------------------------------
+1617787534 ------------------------------------------------------------
+1617787534 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617787534 J;380864107;0;GT5nLess
+1617787536 JT;380864107;0;allies;GT5nLess;
+1617787547 ShutdownGame:
+1617787547 ------------------------------------------------------------
+1617787547 ------------------------------------------------------------
+1617787547 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617787547 J;380864107;0;GT5nLess
+1617787550 JT;380864107;0;axis;GT5nLess;
+1617787698 ShutdownGame:
+1617787698 ------------------------------------------------------------
+1617787698 ------------------------------------------------------------
+1617787698 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sab\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617787698 J;380864107;0;GT5nLess
+1617787701 JT;380864107;0;allies;GT5nLess;
+1617787709 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;none;100000;MOD_SUICIDE;none
+1617787709 JT;380864107;0;axis;GT5nLess;
+1617787741 ShutdownGame:
+1617787741 ------------------------------------------------------------
+1617787741 ------------------------------------------------------------
+1617787741 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617787741 J;380864107;0;GT5nLess
+1617787743 JT;380864107;0;allies;GT5nLess;
+1617787747 JT;380864107;0;axis;GT5nLess;
+1617787766 ShutdownGame:
+1617787766 ------------------------------------------------------------
+1617787766 ------------------------------------------------------------
+1617787766 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617787766 J;380864107;0;GT5nLess
+1617787769 JT;380864107;0;axis;GT5nLess;
+1617787791 say;380864107;0;GT5nLess;noclip
+1617787896 D;380864107;0;axis;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617787928 D;380864107;0;axis;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617787974 D;380864107;0;axis;GT5nLess;;-1;world;;none;58;MOD_FALLING;none
+1617787983 D;380864107;0;axis;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617788048 ShutdownGame:
+1617788048 ------------------------------------------------------------
+1617788048 ------------------------------------------------------------
+1617788048 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617788048 J;380864107;0;GT5nLess
+1617788050 JT;380864107;0;allies;GT5nLess;
+1617788055 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;none;100000;MOD_SUICIDE;none
+1617788055 JT;380864107;0;axis;GT5nLess;
+1617788063 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;none;100000;MOD_SUICIDE;none
+1617788063 JT;380864107;0;allies;GT5nLess;
+1617788085 D;380864107;0;allies;GT5nLess;;-1;world;;none;26;MOD_FALLING;none
+1617788116 say;380864107;0;GT5nLess;com_maxfps 60
+1617788136 D;380864107;0;allies;GT5nLess;;-1;world;;none;3;MOD_FALLING;none
+1617788174 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617788190 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;frag_grenade_mp;259;MOD_GRENADE_SPLASH;none
+1617788320 ShutdownGame:
+1617788320 ------------------------------------------------------------
+1617788580 ------------------------------------------------------------
+1617788580 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617788584 J;380864107;0;GT5nLess
+1617788606 ShutdownGame:
+1617788606 ------------------------------------------------------------
+1617788606 ------------------------------------------------------------
+1617788606 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617788606 J;380864107;0;GT5nLess
+1617788608 JT;380864107;0;allies;GT5nLess;
+1617788653 ShutdownGame:
+1617788653 ------------------------------------------------------------
+1617788653 ------------------------------------------------------------
+1617788653 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617788653 J;380864107;0;GT5nLess
+1617788654 JT;380864107;0;allies;GT5nLess;
+1617788674 say;380864107;0;GT5nLess;noclip
+1617788698 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;none;100000;MOD_SUICIDE;none
+1617788698 JT;380864107;0;axis;GT5nLess;
+1617788719 W;380864107;0;GT5nLess
+1617788722 ShutdownGame:
+1617788722 ------------------------------------------------------------
+1617790802 ------------------------------------------------------------
+1617790802 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617790806 J;380864107;0;GT5nLess
+1617790808 JT;380864107;0;allies;GT5nLess;
+1617790840 say;380864107;0;GT5nLess;jump_slowdownEnable 0
+1617790886 D;380864107;0;allies;GT5nLess;;-1;world;;none;19;MOD_FALLING;none
+1617790906 D;380864107;0;allies;GT5nLess;;-1;world;;none;3;MOD_FALLING;none
+1617790915 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617790936 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617790952 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617790998 D;380864107;0;allies;GT5nLess;;-1;world;;none;4;MOD_FALLING;none
+1617791063 D;380864107;0;allies;GT5nLess;;-1;world;;none;69;MOD_FALLING;none
+1617791093 D;380864107;0;allies;GT5nLess;;-1;world;;none;110;MOD_FALLING;none
+1617791117 D;380864107;0;allies;GT5nLess;;-1;world;;none;110;MOD_FALLING;none
+1617791125 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617791239 ShutdownGame:
+1617791239 ------------------------------------------------------------
+1617791728 ------------------------------------------------------------
+1617791728 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617791733 J;380864107;0;GT5nLess
+1617791735 JT;380864107;0;axis;GT5nLess;
+1617791739 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;none;100000;MOD_SUICIDE;none
+1617791739 JT;380864107;0;allies;GT5nLess;
+1617791754 ShutdownGame:
+1617791754 ------------------------------------------------------------
+1617793351 ------------------------------------------------------------
+1617793351 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617793356 J;380864107;0;GT5nLess
+1617793360 JT;380864107;0;axis;GT5nLess;
+1617793363 K;380864107;0;axis;GT5nLess;380864107;-1;axis;GT5nLess;none;100000;MOD_SUICIDE;none
+1617793363 JT;380864107;0;allies;GT5nLess;
+1617793367 ShutdownGame:
+1617793367 ------------------------------------------------------------
+1617793367 ------------------------------------------------------------
+1617793367 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617793367 J;380864107;0;GT5nLess
+1617793369 JT;380864107;0;allies;GT5nLess;
+1617793491 D;380864107;0;allies;GT5nLess;;-1;world;;none;4;MOD_FALLING;none
+1617793519 D;380864107;0;allies;GT5nLess;;-1;world;;none;4;MOD_FALLING;none
+1617793561 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617793580 D;380864107;0;allies;GT5nLess;;-1;world;;none;11;MOD_FALLING;none
+1617793670 say;380864107;0;GT5nLess;player_sprintSpeedScale 5
+1617793696 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617793748 D;380864107;0;allies;GT5nLess;;-1;world;;none;26;MOD_FALLING;none
+1617793766 D;380864107;0;allies;GT5nLess;;-1;world;;none;11;MOD_FALLING;none
+1617793773 D;380864107;0;allies;GT5nLess;;-1;world;;none;45;MOD_FALLING;none
+1617793804 D;380864107;0;allies;GT5nLess;;-1;world;;none;58;MOD_FALLING;none
+1617793823 D;380864107;0;allies;GT5nLess;;-1;world;;none;42;MOD_FALLING;none
+1617793854 D;380864107;0;allies;GT5nLess;;-1;world;;none;65;MOD_FALLING;none
+1617793870 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617793888 D;380864107;0;allies;GT5nLess;;-1;world;;none;25;MOD_FALLING;none
+1617793934 say;380864107;0;GT5nLess;bg_ladder_yawcap 360
+1617793981 T;380864107;0;GT5nLess
+1617794019 ExitLevel: executed
+1617794019 ShutdownGame:
+1617794019 ------------------------------------------------------------
+1617794022 ------------------------------------------------------------
+1617794022 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_airfield\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794027 J;380864107;0;GT5nLess
+1617794029 JT;380864107;0;allies;GT5nLess;
+1617794049 ShutdownGame:
+1617794049 ------------------------------------------------------------
+1617794052 ------------------------------------------------------------
+1617794052 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_asylum\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794058 J;380864107;0;GT5nLess
+1617794060 JT;380864107;0;allies;GT5nLess;
+1617794063 ShutdownGame:
+1617794063 ------------------------------------------------------------
+1617794066 ------------------------------------------------------------
+1617794066 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_castle\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794072 J;380864107;0;GT5nLess
+1617794072 JT;380864107;0;allies;GT5nLess;
+1617794074 ShutdownGame:
+1617794074 ------------------------------------------------------------
+1617794076 ------------------------------------------------------------
+1617794076 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_shrine\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794082 J;380864107;0;GT5nLess
+1617794083 JT;380864107;0;axis;GT5nLess;
+1617794085 ShutdownGame:
+1617794085 ------------------------------------------------------------
+1617794088 ------------------------------------------------------------
+1617794088 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_courtyard\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794094 J;380864107;0;GT5nLess
+1617794095 JT;380864107;0;allies;GT5nLess;
+1617794098 ShutdownGame:
+1617794098 ------------------------------------------------------------
+1617794100 ------------------------------------------------------------
+1617794100 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_dome\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794106 J;380864107;0;GT5nLess
+1617794108 ShutdownGame:
+1617794108 ------------------------------------------------------------
+1617794111 ------------------------------------------------------------
+1617794111 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_downfall\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794117 J;380864107;0;GT5nLess
+1617794119 ShutdownGame:
+1617794119 ------------------------------------------------------------
+1617794121 ------------------------------------------------------------
+1617794121 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_hangar\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794127 J;380864107;0;GT5nLess
+1617794168 ShutdownGame:
+1617794168 ------------------------------------------------------------
+1617794170 ------------------------------------------------------------
+1617794170 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_makin\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794176 J;380864107;0;GT5nLess
+1617794180 JT;380864107;0;axis;GT5nLess;
+1617794183 ShutdownGame:
+1617794183 ------------------------------------------------------------
+1617794185 ------------------------------------------------------------
+1617794185 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_outskirts\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794193 J;380864107;0;GT5nLess
+1617794194 ShutdownGame:
+1617794194 ------------------------------------------------------------
+1617794197 ------------------------------------------------------------
+1617794197 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_roundhouse\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794204 J;380864107;0;GT5nLess
+1617794205 ShutdownGame:
+1617794205 ------------------------------------------------------------
+1617794207 ------------------------------------------------------------
+1617794207 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_seelow\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794214 J;380864107;0;GT5nLess
+1617794216 ShutdownGame:
+1617794216 ------------------------------------------------------------
+1617794219 ------------------------------------------------------------
+1617794219 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_suburban\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794226 J;380864107;0;GT5nLess
+1617794227 ShutdownGame:
+1617794227 ------------------------------------------------------------
+1617794229 ------------------------------------------------------------
+1617794229 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_makin_day\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794235 J;380864107;0;GT5nLess
+1617794236 ShutdownGame:
+1617794236 ------------------------------------------------------------
+1617794239 ------------------------------------------------------------
+1617794239 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_kneedeep\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794245 J;380864107;0;GT5nLess
+1617794246 ShutdownGame:
+1617794246 ------------------------------------------------------------
+1617794249 ------------------------------------------------------------
+1617794249 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nachtfeuer\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794255 J;380864107;0;GT5nLess
+1617794256 ShutdownGame:
+1617794256 ------------------------------------------------------------
+1617794259 ------------------------------------------------------------
+1617794259 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_subway\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794265 J;380864107;0;GT5nLess
+1617794267 ShutdownGame:
+1617794267 ------------------------------------------------------------
+1617794269 ------------------------------------------------------------
+1617794269 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_docks\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794275 J;380864107;0;GT5nLess
+1617794277 ShutdownGame:
+1617794277 ------------------------------------------------------------
+1617794280 ------------------------------------------------------------
+1617794280 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_kwai\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794286 J;380864107;0;GT5nLess
+1617794287 ShutdownGame:
+1617794287 ------------------------------------------------------------
+1617794289 ------------------------------------------------------------
+1617794289 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_stalingrad\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794295 J;380864107;0;GT5nLess
+1617794297 ShutdownGame:
+1617794297 ------------------------------------------------------------
+1617794300 ------------------------------------------------------------
+1617794300 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_drum\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794305 J;380864107;0;GT5nLess
+1617794307 ShutdownGame:
+1617794307 ------------------------------------------------------------
+1617794310 ------------------------------------------------------------
+1617794310 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_bgate\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794316 J;380864107;0;GT5nLess
+1617794318 ShutdownGame:
+1617794318 ------------------------------------------------------------
+1617794320 ------------------------------------------------------------
+1617794320 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_vodka\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794326 J;380864107;0;GT5nLess
+1617794327 ShutdownGame:
+1617794327 ------------------------------------------------------------
+1617794330 ------------------------------------------------------------
+1617794330 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_airfield\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794336 J;380864107;0;GT5nLess
+1617794351 say;380864107;0;GT5nLess;map mp_nukemp
+1617794356 ShutdownGame:
+1617794356 ------------------------------------------------------------
+1617794358 ------------------------------------------------------------
+1617794358 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\0\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617794363 J;380864107;0;GT5nLess
+1617794365 JT;380864107;0;allies;GT5nLess;
+1617794389 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617794600 ShutdownGame:
+1617794600 ------------------------------------------------------------
+1617803642 ------------------------------------------------------------
+1617803642 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617803648 J;380864107;0;GT5nLess
+1617803650 JT;380864107;0;allies;GT5nLess;
+1617803667 ShutdownGame:
+1617803667 ------------------------------------------------------------
+1617803667 ------------------------------------------------------------
+1617803667 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617803667 J;380864107;0;GT5nLess
+1617803669 JT;380864107;0;allies;GT5nLess;
+1617803680 say;380864107;0;GT5nLess;map mp_nukemp
+1617803683 ShutdownGame:
+1617803683 ------------------------------------------------------------
+1617803685 ------------------------------------------------------------
+1617803685 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617803690 J;380864107;0;GT5nLess
+1617803692 JT;380864107;0;allies;GT5nLess;
+1617803712 ShutdownGame:
+1617803712 ------------------------------------------------------------
+1617803994 ------------------------------------------------------------
+1617803994 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617803999 J;380864107;0;GT5nLess
+1617804001 JT;380864107;0;allies;GT5nLess;
+1617804021 ShutdownGame:
+1617804021 ------------------------------------------------------------
+1617804021 ------------------------------------------------------------
+1617804021 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617804021 J;380864107;0;GT5nLess
+1617804023 JT;380864107;0;allies;GT5nLess;
+1617804050 ShutdownGame:
+1617804050 ------------------------------------------------------------
+1617804050 ------------------------------------------------------------
+1617804050 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617804050 J;380864107;0;GT5nLess
+1617804053 JT;380864107;0;allies;GT5nLess;
+1617804067 ShutdownGame:
+1617804067 ------------------------------------------------------------
+1617804067 ------------------------------------------------------------
+1617804067 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617804067 J;380864107;0;GT5nLess
+1617804070 JT;380864107;0;allies;GT5nLess;
+1617804081 ShutdownGame:
+1617804081 ------------------------------------------------------------
+1617804081 ------------------------------------------------------------
+1617804081 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617804081 J;380864107;0;GT5nLess
+1617804084 JT;380864107;0;allies;GT5nLess;
+1617804130 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617804202 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617804236 D;380864107;0;allies;GT5nLess;;-1;world;;none;22;MOD_FALLING;none
+1617804258 say;380864107;0;GT5nLess;map mp_nukemp
+1617804262 ShutdownGame:
+1617804262 ------------------------------------------------------------
+1617804264 ------------------------------------------------------------
+1617804264 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617804269 J;380864107;0;GT5nLess
+1617804271 JT;380864107;0;allies;GT5nLess;
+1617804316 D;380864107;0;allies;GT5nLess;380864107;0;allies;GT5nLess;frag_grenade_mp;49;MOD_GRENADE_SPLASH;none
+1617804359 BP;380864107;0;GT5nLess
+1617804364 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;none;100000;MOD_SUICIDE;none
+1617804364 JT;380864107;0;axis;GT5nLess;
+1617804381 ShutdownGame:
+1617804381 ------------------------------------------------------------
+1617869465 ------------------------------------------------------------
+1617869465 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869470 J;380864107;0;GT5nLess
+1617869471 JT;380864107;0;allies;GT5nLess;
+1617869558 D;380864107;0;allies;GT5nLess;;-1;world;;none;48;MOD_FALLING;none
+1617869604 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;none;100000;MOD_SUICIDE;none
+1617869604 JT;380864107;0;axis;GT5nLess;
+1617869610 Weapon;380864107;0;GT5nLess;thompson_mp
+1617869617 ShutdownGame:
+1617869617 ------------------------------------------------------------
+1617869617 ------------------------------------------------------------
+1617869617 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869617 J;380864107;0;GT5nLess
+1617869619 JT;380864107;0;allies;GT5nLess;
+1617869634 say;380864107;0;GT5nLess;map mp_nukemp
+1617869638 ShutdownGame:
+1617869638 ------------------------------------------------------------
+1617869640 ------------------------------------------------------------
+1617869640 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869645 J;380864107;0;GT5nLess
+1617869647 JT;380864107;0;allies;GT5nLess;
+1617869662 ShutdownGame:
+1617869662 ------------------------------------------------------------
+1617869662 ------------------------------------------------------------
+1617869662 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869662 J;380864107;0;GT5nLess
+1617869664 JT;380864107;0;axis;GT5nLess;
+1617869691 ShutdownGame:
+1617869691 ------------------------------------------------------------
+1617869700 ------------------------------------------------------------
+1617869700 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869705 J;380864107;0;GT5nLess
+1617869707 JT;380864107;0;axis;GT5nLess;
+1617869747 ShutdownGame:
+1617869747 ------------------------------------------------------------
+1617869747 ------------------------------------------------------------
+1617869747 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869747 J;380864107;0;GT5nLess
+1617869750 JT;380864107;0;allies;GT5nLess;
+1617869778 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617869802 BP;380864107;0;GT5nLess
+1617869838 ShutdownGame:
+1617869838 ------------------------------------------------------------
+1617869845 ------------------------------------------------------------
+1617869845 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869850 J;380864107;0;GT5nLess
+1617869866 ShutdownGame:
+1617869866 ------------------------------------------------------------
+1617869866 ------------------------------------------------------------
+1617869866 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dom\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869866 J;380864107;0;GT5nLess
+1617869868 JT;380864107;0;allies;GT5nLess;
+1617869876 ShutdownGame:
+1617869876 ------------------------------------------------------------
+1617869876 ------------------------------------------------------------
+1617869876 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dom\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869876 J;380864107;0;GT5nLess
+1617869878 JT;380864107;0;allies;GT5nLess;
+1617869880 ShutdownGame:
+1617869880 ------------------------------------------------------------
+1617869897 ------------------------------------------------------------
+1617869897 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dom\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617869902 J;380864107;0;GT5nLess
+1617869903 JT;380864107;0;allies;GT5nLess;
+1617869931 FC;380864107;0;GT5nLess
+1617869949 FC;380864107;0;GT5nLess
+1617869962 ShutdownGame:
+1617869962 ------------------------------------------------------------
+1617870017 ------------------------------------------------------------
+1617870017 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\koth\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617870019 ExitLevel: executed
+1617870019 ShutdownGame:
+1617870019 ------------------------------------------------------------
+1617870022 ------------------------------------------------------------
+1617870022 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\dm\gamename\Call of Duty: World at War\mapname\mp_airfield\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617870028 J;380864107;0;GT5nLess
+1617870029 ShutdownGame:
+1617870029 ------------------------------------------------------------
+1617870051 ------------------------------------------------------------
+1617870051 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sab\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617870056 J;380864107;0;GT5nLess
+1617870057 JT;380864107;0;allies;GT5nLess;
+1617870088 BP;380864107;0;GT5nLess
+1617870108 D;380864107;0;allies;GT5nLess;;-1;world;;none;24;MOD_FALLING;none
+1617870118 ShutdownGame:
+1617870118 ------------------------------------------------------------
+1617871425 ------------------------------------------------------------
+1617871425 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617871430 J;380864107;0;GT5nLess
+1617871431 JT;380864107;0;allies;GT5nLess;
+1617871461 D;380864107;0;allies;GT5nLess;;-1;world;;none;33;MOD_FALLING;none
+1617871514 D;380864107;0;allies;GT5nLess;380864107;0;allies;GT5nLess;frag_grenade_mp;73;MOD_GRENADE_SPLASH;none
+1617871578 D;380864107;0;allies;GT5nLess;;-1;world;;none;26;MOD_FALLING;none
+1617871640 D;380864107;0;allies;GT5nLess;;-1;world;;none;12;MOD_FALLING;none
+1617871673 D;380864107;0;allies;GT5nLess;;-1;world;;none;61;MOD_FALLING;none
+1617871699 D;380864107;0;allies;GT5nLess;;-1;world;;none;6;MOD_FALLING;none
+1617871714 ShutdownGame:
+1617871714 ------------------------------------------------------------
+1617879175 ------------------------------------------------------------
+1617879175 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617879180 J;380864107;0;GT5nLess
+1617879183 JT;380864107;0;allies;GT5nLess;
+1617879311 JT;380864107;0;allies;GT5nLess;
+1617879421 say;380864107;0;GT5nLess;cg_drawCrosshair 0
+1617879503 ShutdownGame:
+1617879503 ------------------------------------------------------------
+1617890565 ------------------------------------------------------------
+1617890565 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617890570 J;380864107;0;GT5nLess
+1617890572 JT;380864107;0;allies;GT5nLess;
+1617890598 say;380864107;0;GT5nLess;map mp_nukemp
+1617890603 ShutdownGame:
+1617890603 ------------------------------------------------------------
+1617890605 ------------------------------------------------------------
+1617890605 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617890610 J;380864107;0;GT5nLess
+1617890615 JT;380864107;0;allies;GT5nLess;
+1617890627 ShutdownGame:
+1617890627 ------------------------------------------------------------
+1617890631 ------------------------------------------------------------
+1617890631 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617890636 J;380864107;0;GT5nLess
+1617890637 JT;380864107;0;axis;GT5nLess;
+1617890658 D;380864107;0;axis;GT5nLess;;-1;world;;none;25;MOD_FALLING;none
+1617890669 ShutdownGame:
+1617890669 ------------------------------------------------------------
+1617890924 ------------------------------------------------------------
+1617890924 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617890929 J;380864107;0;GT5nLess
+1617890931 JT;380864107;0;allies;GT5nLess;
+1617890945 ShutdownGame:
+1617890945 ------------------------------------------------------------
+1617891172 ------------------------------------------------------------
+1617891172 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617891177 J;380864107;0;GT5nLess
+1617891179 JT;380864107;0;allies;GT5nLess;
+1617891191 ShutdownGame:
+1617891191 ------------------------------------------------------------
+1617891623 ------------------------------------------------------------
+1617891623 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617891628 J;380864107;0;GT5nLess
+1617891630 JT;380864107;0;allies;GT5nLess;
+1617891642 ShutdownGame:
+1617891642 ------------------------------------------------------------
+1617896919 ------------------------------------------------------------
+1617896919 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617896919 ShutdownGame:
+1617896919 ------------------------------------------------------------
+1617897239 ------------------------------------------------------------
+1617897239 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897244 J;380864107;0;GT5nLess
+1617897246 JT;380864107;0;axis;GT5nLess;
+1617897260 ShutdownGame:
+1617897260 ------------------------------------------------------------
+1617897277 ------------------------------------------------------------
+1617897277 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897282 J;380864107;0;GT5nLess
+1617897287 JT;380864107;0;allies;GT5nLess;
+1617897325 ShutdownGame:
+1617897325 ------------------------------------------------------------
+1617897331 ------------------------------------------------------------
+1617897331 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897336 J;380864107;0;GT5nLess
+1617897338 JT;380864107;0;allies;GT5nLess;
+1617897389 D;380864107;0;allies;GT5nLess;;-1;world;;none;4;MOD_FALLING;none
+1617897498 W;380864107;0;GT5nLess
+1617897504 ShutdownGame:
+1617897504 ------------------------------------------------------------
+1617897504 ------------------------------------------------------------
+1617897504 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897504 J;380864107;0;GT5nLess
+1617897530 D;380864107;0;allies;GT5nLess;;-1;world;;none;26;MOD_FALLING;none
+1617897557 D;380864107;0;allies;GT5nLess;380864107;0;allies;GT5nLess;frag_grenade_mp;75;MOD_GRENADE_SPLASH;none
+1617897654 W;380864107;0;GT5nLess
+1617897660 ShutdownGame:
+1617897660 ------------------------------------------------------------
+1617897660 ------------------------------------------------------------
+1617897660 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897660 J;380864107;0;GT5nLess
+1617897703 say;380864107;0;GT5nLess;cg_fov 90
+1617897715 say;380864107;0;GT5nLess;cg_fov 80
+1617897779 say;380864107;0;GT5nLess;devmap mp_nukemp
+1617897782 ShutdownGame:
+1617897782 ------------------------------------------------------------
+1617897783 ------------------------------------------------------------
+1617897783 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897789 J;380864107;0;GT5nLess
+1617897790 JT;380864107;0;allies;GT5nLess;
+1617897835 D;380864107;0;allies;GT5nLess;;-1;world;;none;34;MOD_FALLING;none
+1617897882 D;380864107;0;allies;GT5nLess;;-1;world;;none;19;MOD_FALLING;none
+1617897903 D;380864107;0;allies;GT5nLess;;-1;world;;none;38;MOD_FALLING;none
+1617897920 W;380864107;0;GT5nLess
+1617897926 ShutdownGame:
+1617897926 ------------------------------------------------------------
+1617897926 ------------------------------------------------------------
+1617897926 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617897926 J;380864107;0;GT5nLess
+1617897949 D;380864107;0;allies;GT5nLess;;-1;world;;none;85;MOD_FALLING;none
+1617897982 D;380864107;0;allies;GT5nLess;;-1;world;;none;26;MOD_FALLING;none
+1617898047 D;380864107;0;allies;GT5nLess;;-1;world;;none;1;MOD_FALLING;none
+1617898066 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617898076 W;380864107;0;GT5nLess
+1617898082 ShutdownGame:
+1617898082 ------------------------------------------------------------
+1617898082 ------------------------------------------------------------
+1617898082 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617898082 J;380864107;0;GT5nLess
+1617898098 D;380864107;0;allies;GT5nLess;;-1;world;;none;95;MOD_FALLING;none
+1617898116 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617898125 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617898193 K;380864107;0;allies;GT5nLess;;-1;world;;none;110;MOD_FALLING;none
+1617898232 W;380864107;0;GT5nLess
+1617898241 ShutdownGame:
+1617898241 ------------------------------------------------------------
+1617898241 ------------------------------------------------------------
+1617898241 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617898242 J;380864107;0;GT5nLess
+1617898257 D;380864107;0;allies;GT5nLess;;-1;world;;none;31;MOD_FALLING;none
+1617898273 BP;380864107;0;GT5nLess
+1617898308 D;380864107;0;allies;GT5nLess;;-1;world;;none;22;MOD_FALLING;none
+1617898318 K;380864107;0;allies;GT5nLess;380864107;-1;allies;GT5nLess;briefcase_bomb_mp;110;MOD_EXPLOSIVE;none
+1617898321 W;380864107;0;GT5nLess
+1617898324 W;380864107;0;GT5nLess
+1617898362 ExitLevel: executed
+1617898362 ShutdownGame:
+1617898362 ------------------------------------------------------------
+1617898364 ------------------------------------------------------------
+1617898364 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\sd\gamename\Call of Duty: World at War\mapname\mp_airfield\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617898371 J;380864107;0;GT5nLess
+1617898373 ShutdownGame:
+1617898373 ------------------------------------------------------------
+1617911736 ------------------------------------------------------------
+1617911736 InitGame: \fs_game\mods/mp_HumorModTWO\fxfrustumCutoff\1000\g_compassShowEnemies\0\g_gametype\tdm\gamename\Call of Duty: World at War\mapname\mp_nukemp\penetrationCount\5\protocol\101\r_watersim_enabled\1\shortversion\1\sv_allowAnonymous\0\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoDWaWHost\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1\ui_maxclients\32\g_logTimeStampInSeconds\1
+1617911742 J;380864107;0;GT5nLess
+1617911753 JT;380864107;0;allies;GT5nLess;
+1617911795 D;380864107;0;allies;GT5nLess;;-1;world;;none;97;MOD_FALLING;none
+1617911841 D;380864107;0;allies;GT5nLess;;-1;world;;none;50;MOD_FALLING;none
+1617911896 D;380864107;0;allies;GT5nLess;;-1;world;;none;76;MOD_FALLING;none
+1617912052 D;380864107;0;allies;GT5nLess;;-1;world;;none;7;MOD_FALLING;none
+1617912058 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617912119 D;380864107;0;allies;GT5nLess;;-1;world;;none;4;MOD_FALLING;none
+1617912131 D;380864107;0;allies;GT5nLess;;-1;world;;none;14;MOD_FALLING;none
+1617912160 D;380864107;0;allies;GT5nLess;;-1;world;;none;50;MOD_FALLING;none
+1617912177 D;380864107;0;allies;GT5nLess;;-1;world;;none;50;MOD_FALLING;none
+1617912201 D;380864107;0;allies;GT5nLess;;-1;world;;none;9;MOD_FALLING;none
+1617912305 D;380864107;0;allies;GT5nLess;;-1;world;;none;48;MOD_FALLING;none
+1617912377 D;380864107;0;allies;GT5nLess;;-1;world;;none;65;MOD_FALLING;none
+1617912411 ShutdownGame:
+1617912411 ------------------------------------------------------------
